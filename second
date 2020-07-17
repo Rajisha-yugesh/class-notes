@@ -1,0 +1,6 @@
+push
+it push the content from local repo to our remote repo
+
+git clone
+used for creating a copy of already exising reposiory
+
